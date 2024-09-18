@@ -17,7 +17,7 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 ## Image with Caption
 --------------------
 
-![Your Image Description](https://drive.google.com/file/d/1xqjWkoS81kfd6OE2zEopSyEF-83MP7x_/view?usp=sharingD "Your Image Caption")
+![caption](https://imgur.com/a/KTviLNG)
 
 ## Code Block
 -------------
