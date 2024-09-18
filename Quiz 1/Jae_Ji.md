@@ -2,9 +2,7 @@
 ---------------
 This document showcases various stylistic elements using Markdown, HTML, and CSV.
 ## Emphasis and Text Formatting
-### *Italic text* using single asterisks 
-### **Bold text** using double asterisks 
-### ~~Strikethrough text~~ using tilde
+*Italic text* using single asterisks, **Bold text** using double asterisks, ~~Strikethrough text~~ using tilde
 
 
 ## Table using CSV
