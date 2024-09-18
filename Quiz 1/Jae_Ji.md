@@ -14,6 +14,9 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 | Jane Doe | 25 | Canada |
 | Bob Smith | 40 | UK   
 
+<img src="https://images.app.goo.gl/MDWbML5mqdT5hTe4A
+" alt="test" style="width:50%;height:50%;">
+<figcaption>Your Image Caption</figcaption>
 
 ## Code Block
 -------------
@@ -22,3 +25,23 @@ def greet(name):
   print(f"Hello, {name}!")
 
 greet("World")
+
+## Mathematical Equation
+----------------------
+
+The quadratic formula is given by:
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+
+
+## Ordered List
+---------------
+
+1. First item
+2. Second item
+3. Third item
+
+## Link to External Resource
+---------------------------
+
+[Visit GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
