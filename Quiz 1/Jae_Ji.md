@@ -11,7 +11,7 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 3. Third item
 4. Fourth item
 
-## Table using CSV
+## Table in CSV Format
 ------------------
 
 | Name | Age | Country |
