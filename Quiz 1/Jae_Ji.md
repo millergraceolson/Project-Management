@@ -17,7 +17,10 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 ## Image with Caption
 --------------------
 
-![Kingfisher!](https://drive.google.com/uc?export=view&id=1xqjWkoS81kfd6OE2zEopSyEF-83MP7x_)
+<figure>
+  <img src="https://drive.google.com/uc?export=view&id=1xqjWkoS81kfd6OE2zEopSyEF-83MP7x_" alt="Kingfisher">
+  <figcaption>Kingfisher!</figcaption>
+</figure>
 
 
 ## Code Block
