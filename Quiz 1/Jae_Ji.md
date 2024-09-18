@@ -4,6 +4,12 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 ## Emphasis and Text Formatting
 *Italic text* using single asterisks, **Bold text** using double asterisks, ~~Strikethrough text~~ using tilde
 
+## Ordered list
+------------------
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
 
 ## Table using CSV
 ------------------
