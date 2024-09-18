@@ -1,6 +1,21 @@
+Introduction
+---------------
+This document showcases various stylistic elements using Markdown, HTML, and CSV.
+Emphasis and Text Formatting
+*Italic* text using single asterisks
+**Bold** text using double asterisks
+~Strikethrough~ text using tilde
 
-# Main Heading
-## Subheading
-### Sub-subheading
+Table using CSV
+------------------
+Name,Age,Country
+John Doe,30,USA
+Jane Doe,25,Canada
+Bob Smith,40,UK
 
-This is a sentence?
+Code Block
+-------------
+def greet(name):
+  print(f"Hello, {name}!")
+
+greet("World")
