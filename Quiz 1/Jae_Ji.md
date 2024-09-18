@@ -14,9 +14,10 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 | Jane Doe | 25 | Canada |
 | Bob Smith | 40 | UK   
 
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/KTviLNG" data-context="false" ><a href="//imgur.com/a/KTviLNG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-" alt="test" style="width:50%;height:50%;">
-<figcaption>Your Image Caption</figcaption>
+## Image with Caption
+--------------------
+
+![Your Image Description](https://drive.google.com/file/d/1xqjWkoS81kfd6OE2zEopSyEF-83MP7x_/view?usp=sharingD "Your Image Caption")
 
 ## Code Block
 -------------
