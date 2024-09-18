@@ -17,7 +17,7 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 ## Image with Caption
 --------------------
 
-![Kingfisher](https://drive.google.com/file/d/1xqjWkoS81kfd6OE2zEopSyEF-83MP7x_/view?usp=sharing)
+![Kingfisher](https://drive.google.com/uc?export=view&id=1xqjWkoS81kfd6OE2zEopSyEF-83MP7x_)
 
 
 ## Code Block
