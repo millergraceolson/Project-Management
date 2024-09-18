@@ -17,7 +17,8 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 ## Image with Caption
 --------------------
 
-![caption](https://imgur.com/a/KTviLNG)
+![caption](file:///Users/admin/Desktop/wabbeltedkingfisher-dwb.jpg)
+
 
 ## Code Block
 -------------
