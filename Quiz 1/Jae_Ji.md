@@ -35,13 +35,6 @@ The quadratic formula is given by:
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
 
-## Ordered List
----------------
-
-1. First item
-2. Second item
-3. Third item
-
 ## Link to External Resource
 ---------------------------
 
