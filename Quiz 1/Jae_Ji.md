@@ -17,7 +17,7 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 ## Image with Caption
 --------------------
 
-![caption](file:///Users/admin/Desktop/wabbeltedkingfisher-dwb.jpg)
+![Kingfisher](./wabbeltedkingfisher-dwb.jpg)
 
 
 ## Code Block
