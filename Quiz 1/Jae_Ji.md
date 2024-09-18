@@ -14,7 +14,7 @@ This document showcases various stylistic elements using Markdown, HTML, and CSV
 | Jane Doe | 25 | Canada |
 | Bob Smith | 40 | UK   
 
-<img src="https://images.app.goo.gl/MDWbML5mqdT5hTe4A
+<img src="https://https://drive.google.com/uc?id=MDWbML5mqdT5hTe4A
 " alt="test" style="width:50%;height:50%;">
 <figcaption>Your Image Caption</figcaption>
 
