@@ -1,4 +1,4 @@
 # Cafe Sweets
 
 Welcome to Cafe Sweets! A delightful place where every bite is a treat.
-(https://www.elmundoeats.com/wp-content/uploads/2018/08/Matcha-Bread-Slices-3.jpg)">
+(https://www.elmundoeats.com/wp-content/uploads/2018/08/Matcha-Bread-Slices-3.jpg)
