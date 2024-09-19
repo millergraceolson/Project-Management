@@ -4,7 +4,6 @@ Bradly Alicea
 Jae Ji  
 Peter Chen  
 Mariam Sanusi  
-Bradly Alicea   
 Autumn Rosedale     
 Hyunji Lee   
 Amaan Khan   
@@ -19,12 +18,6 @@ Yunchae Cho
 Samridhi Verma  
 Matthew Hurh  
 Jonathan Mei  
-Sophia Bustos  
-Justin Yoon   
-Blake Mackin   
-Pavithra Ramakrishnan  
-Katelyn Nguyen  
-Youbeen Oh  
 Aren Yoon  
 Yunchae Cho  
 Samridhi Verma  
