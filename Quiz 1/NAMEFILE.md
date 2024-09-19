@@ -8,7 +8,8 @@ Bradly Alicea
 Autumn Rosedale     
 Hyunji Lee   
 Amaan Khan   
-Sophia Bustos  
+Matthew Hurh  
+Sophia Bustos   
 Justin Yoon  
 Blake Mackin  
 Pavithra Ramakrishnan  
