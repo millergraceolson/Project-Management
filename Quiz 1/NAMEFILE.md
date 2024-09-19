@@ -14,9 +14,9 @@ Blake Mackin
 Pavithra Ramakrishnan  
 Katelyn Nguyen  
 Youbeen Oh  
-Aren Yoon  
 Yunchae Cho  
 Samridhi Verma  
+Matthew Hurh  
 Jonathan Mei  
 Sophia Bustos  
 Justin Yoon   
