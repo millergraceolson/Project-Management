@@ -1,19 +1,22 @@
 ## Please list your name below
 
-Bradly Alicea
-Peter Chen
-Mariam Sanusi
+Bradly Alicea  
+Jae Ji  
+Peter Chen  
+Mariam Sanusi  
 Bradly Alicea   
-Autumn Rosedale   
+Autumn Rosedale     
 Hyunji Lee   
 Amaan Khan   
-Sophia Bustos 
-Justin Yoon \
-Blake Mackin \
-Pavithra Ramakrishnan
-
-Youbeen Oh
-
-Yunchae Cho
-
-Nicole Gromski
+Sophia Bustos  
+Justin Yoon   
+Blake Mackin   
+Pavithra Ramakrishnan  
+Katelyn Nguyen  
+Youbeen Oh  
+Aren Yoon  
+Yunchae Cho  
+Samridhi Verma  
+Youbeen Oh  
+Yunchae Cho  
+Nicole Gromski  
