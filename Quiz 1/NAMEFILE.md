@@ -9,6 +9,16 @@ Autumn Rosedale
 Hyunji Lee   
 Amaan Khan   
 Sophia Bustos  
+Justin Yoon  
+Blake Mackin  
+Pavithra Ramakrishnan  
+Katelyn Nguyen  
+Youbeen Oh  
+Aren Yoon  
+Yunchae Cho  
+Samridhi Verma  
+Jonathan Mei  
+Sophia Bustos  
 Justin Yoon   
 Blake Mackin   
 Pavithra Ramakrishnan  
@@ -17,6 +27,4 @@ Youbeen Oh
 Aren Yoon  
 Yunchae Cho  
 Samridhi Verma  
-Youbeen Oh  
-Yunchae Cho  
-Nicole Gromski  
+Nicole Gromski   
