@@ -4,6 +4,7 @@
 
 | Course Title | Project Managment |
 |------:|---------|
+| Course Number:| IS340 |
 
 ## Hobbies:
 * Golf
