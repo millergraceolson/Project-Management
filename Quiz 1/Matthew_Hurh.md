@@ -2,7 +2,7 @@
 
 ## Course Information
 
-| Course Title | Lecture |
+| Course Title | Project Management |
 |Course Number: |IS340|
 |     Semester and Year| Fall 2024|
 |     Location| 53 Graduate School of Library & Information Science    |
