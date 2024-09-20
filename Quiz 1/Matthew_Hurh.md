@@ -4,7 +4,8 @@
 ---
 | Course Title: | | Project Managment |
 | Course Number: | | IS340 |
-
+| Purpose  | Outcome  | Process |
+| --- | --- | --- |
 
 Course Number: IS340
 Semester and Year: Fall 2024
