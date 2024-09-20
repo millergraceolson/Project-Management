@@ -3,6 +3,7 @@
 ## Course Information
 
 | Course Title | Project Managment |
+|------:|---------|
 
 ## Hobbies:
 * Golf
