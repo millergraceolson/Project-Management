@@ -1,7 +1,7 @@
 # **Project Managment IS 340**
 
 ## Course Information
----
+
 | Course Title | Project Management |
 |Course Number: |IS340|
 |     Semester and Year| Fall 2024|
@@ -14,7 +14,6 @@ Times: Mondays and Wednesdays: 2:00pm - 3:20pm
 Office Hours: By Appointment
 assignees: ''
 
----
 
 ## Hobbies:
 * Golf
