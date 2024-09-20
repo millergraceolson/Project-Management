@@ -2,10 +2,6 @@
 
 ## Course Information
 ---
-| Course Title: | | Project Managment |
-| Course Number: | | IS340 |
-| Course Title  | Project Management |
-| --- | --- | --- |
 | Course Title | Project Management |
 |Course Number: |IS340|
 |     Semester and Year| Fall 2024|
