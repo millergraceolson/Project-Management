@@ -4,7 +4,7 @@
 ---
 | Course Title: | | Project Managment |
 | Course Number: | | IS340 |
-| Course Title  | Project Managment  |
+| Course Title  | Project Management  | Process |
 | --- | --- | --- |
 
 Course Number: IS340
