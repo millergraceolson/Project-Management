@@ -1,3 +1,9 @@
+Building List
+* Library and Information Science Building
+* Hub
+* Union
+* Foellinger Auditorium
+
 # **Project Managment IS 340**
 
 ## Course Information
